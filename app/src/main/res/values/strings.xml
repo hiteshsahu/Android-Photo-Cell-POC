@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Photo Cell Util</string>
+
+    <string name="permdesc_flashlight">This App uses Camera Flash as Torch to illuminate PhotoCell</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_widget">Add widget</string>
+</resources>
